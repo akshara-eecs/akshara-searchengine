@@ -26,7 +26,7 @@ Through this project, I gained hands-on experience in:
 
 This project demonstrates the integration of information retrieval, parallel processing, and user-centered design to create a functional and scalable search engine.
 
+<img width="1255" alt="Screenshot 2024-12-10 at 11 16 56 PM" src="https://github.com/user-attachments/assets/a3c3a6db-8b73-4cc7-9d92-393fb686fdb2">
 
-<img width="1302" alt="Screenshot 2024-12-10 at 11 01 45 PM" src="https://github.com/user-attachments/assets/73da8e8e-07df-4b2b-92ab-9933a2fbf589">
 <img width="1253" alt="Screenshot 2024-12-10 at 11 02 50 PM" src="https://github.com/user-attachments/assets/7fd59324-9af9-4fdd-9581-a64653bb5fab">
 
